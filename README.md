@@ -1,4 +1,4 @@
 ### Hi There!
-Learning the GitHub Flow
+(Learning the GitHub Flow)
 
 I love 👣 ⚽ 🎱 🕹 🎮 🎸 🖥 📷   
