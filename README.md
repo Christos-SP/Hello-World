@@ -2,5 +2,3 @@
 (Learning the GitHub Flow)
  
 I love 👣 ⚽ 🎱 🕹 🎮 🎸 🖥 📷 
-
-dog.jpg
