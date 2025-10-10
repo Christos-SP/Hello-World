@@ -1,4 +1,6 @@
-### Hi There!
+### Hi There! ###
 (Learning the GitHub Flow)
+
+# Newer Version! #
 
 I love 👣 ⚽ 🎱 🕹 🎮 🎸 🖥 📷   
