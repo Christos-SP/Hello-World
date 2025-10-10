@@ -3,4 +3,3 @@
  
 I love 👣 ⚽ 🎱 🕹 🎮 🎸 🖥 📷 
 
-![The San Juan Mountains are beautiful](/assets/images/dog.jpg)
