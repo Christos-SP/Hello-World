@@ -9,4 +9,4 @@ Street Photography
 
 | First Header | Second Header |  
 | :----------- | :-----------: |  
-| ![image1](    |![image1](|  
+| ![image1](dog.jpg) |![image1](dog.jpg) |  
